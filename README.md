@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Em!
-- 👀 I’m interested in developing web applications, mobile applications and 2D games.
+- 👀 I’m interested in developing web/desktop applications, mobile applications and 2D games.
 - 🌱 I’m currently learning C#, .Net
 - 🤹 I master Object Oriented programming with Java, C# and Javascript.
 - 🎨 I also love working on UI/UX projects with HTML, CSS, SASS and JS.
