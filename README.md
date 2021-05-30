@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Em!
 - 👀 I’m interested in developing web/desktop applications, mobile applications and 2D games.
-- 🌱 I’m currently learning C#, .Net
+- 🌱 I’m currently learning C# and .Net Core
 - 🤹 I master Object Oriented programming with Java, C# and Javascript.
-- 🎨 I also love working on UI/UX projects with HTML, CSS, SASS and JS.
+- 🎨 I also love working on UI/UX projects with HTML, CSS, SASS PHP and JS.
 - 💞️ I’m always looking forward to collaborate on exciting projects.
 - 📫 Message me at edebarros96@gmail.com
 
