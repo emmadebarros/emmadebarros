@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">About Me</h2>
+##About Me
 
 Hi, I'm Em! 👋
 
